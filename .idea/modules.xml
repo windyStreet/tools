@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basecodetest/basecodetest.iml" filepath="$PROJECT_DIR$/basecodetest/basecodetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/csv2sql/csv2sql.iml" filepath="$PROJECT_DIR$/csv2sql/csv2sql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filesuffixchange/filesuffixchange.iml" filepath="$PROJECT_DIR$/filesuffixchange/filesuffixchange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools.iml" filepath="$PROJECT_DIR$/tools.iml" />
+    </modules>
+  </component>
+</project>
