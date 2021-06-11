@@ -19,7 +19,6 @@ public class ImageTest {
 
     /**
      * 指定图片宽度和高度和压缩比例对图片进行压缩
-     *
      * @param imgsrc  源图片地址
      * @param imgdist 目标图片地址
      */
